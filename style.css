@@ -95,17 +95,17 @@ html,body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 250px;
-    left: 5%;
+    width: 450px;
+    left: 7%;
     top: 5%;
-    background-color: red;
+    /* background-color: red; */
 
 }
 .navbar img{
     height: 60px;
 }
 .navbar h5{
-    font-size: 30px;
+    font-size: 20px;
     color: #fff;
     font-family:'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
